@@ -21,7 +21,7 @@ follow:
 description:      
 
 indexContent:     true
-imageLink:        http://www.yelaws.com
+#imageLink:        http://www.yelaws.com
 
 
 style:            /css/style.css
