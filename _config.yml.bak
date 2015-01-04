@@ -13,11 +13,12 @@ author:
 about:            "我叫叶云峰"
 follow:
     email:        yelaws@vip.qq.com
-    github:       https://github.com/pizn
-    twitter:      http://www.twitter.com/piznlin
-    google:       https://plus.google.com/107483619032085919305
-    facebook:     http://facebook.com/zhanxinlin
-description:      Just another blog theme -- the One
+    #github:       https://github.com/pizn
+    #twitter:      http://www.twitter.com/piznlin
+    #google:       https://plus.google.com/107483619032085919305
+    #facebook:     http://facebook.com/zhanxinlin
+    weibo:	
+description:      
 
 indexContent:     true
 imageLink:        http://www.yelaws.com
@@ -33,3 +34,4 @@ disqus:           piznblog
 
 copyright:        Copyright © 2011-2012 Yelaws All rights reserved.
 #test:             ok
+encoding: UTF-8
