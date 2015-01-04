@@ -30,7 +30,7 @@ blogDesc:         我是律师
 favicon:          /favicon.ico
 theme:            blue
 
-disqus:           piznblog
+#disqus:           piznblog
 
 copyright:        Copyright © 2011-2012 Yelaws All rights reserved.
 #test:             ok
