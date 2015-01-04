@@ -2,7 +2,7 @@
 pygments:         true
 paginate:         4
 
-title:            云峰的网站
+title:            Yelaws
 url:              http://www.yelaws.com
 feed:             /atom.xml
 author:
@@ -25,8 +25,8 @@ imageLink:        http://www.yelaws.com
 
 
 style:            /css/style.css
-blogName:         云峰 
-blogDesc:         我是律师
+blogName:         Yelaws
+blogDesc:         I'm a lawer.
 favicon:          /favicon.ico
 theme:            blue
 
