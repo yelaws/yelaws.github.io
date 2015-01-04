@@ -2,17 +2,17 @@
 pygments:         true
 paginate:         4
 
-title:            The One Theme
+title:            云峰的网站
 url:              http://www.yelaws.com
 feed:             /atom.xml
 author:
-    name:         PIZn
-    email:        pizner@gmail.com
-    description:  "The one theme is another web theme design by PIZn."
+    name:         Yelaws
+    email:        yelaws@vip.qq.com
+    description:  ""
 
-about:            "I am PIZn.I love all kinds of design, attention to the Internet dynamic, dedicated web front development, learn UI and UED."
+about:            "我叫叶云峰"
 follow:
-    email:        pizner@gmail.com
+    email:        yelaws@vip.qq.com
     github:       https://github.com/pizn
     twitter:      http://www.twitter.com/piznlin
     google:       https://plus.google.com/107483619032085919305
@@ -20,12 +20,12 @@ follow:
 description:      Just another blog theme -- the One
 
 indexContent:     true
-imageLink:        http://www.pizn.net/static/images/20121109Monutain.jpg
+imageLink:        http://www.yelaws.com
 
 
 style:            /css/style.css
-blogName:         theOne 
-blogDesc:         Just another theme
+blogName:         云峰 
+blogDesc:         我是律师
 favicon:          /favicon.ico
 theme:            blue
 
